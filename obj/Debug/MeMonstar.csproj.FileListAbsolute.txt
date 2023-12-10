@@ -1,0 +1,7 @@
+C:\Users\zZz\source\repos\MeMonstar\bin\Debug\MeMonstar.exe.config
+C:\Users\zZz\source\repos\MeMonstar\bin\Debug\MeMonstar.exe
+C:\Users\zZz\source\repos\MeMonstar\bin\Debug\MeMonstar.pdb
+C:\Users\zZz\source\repos\MeMonstar\obj\Debug\MeMonstar.csproj.AssemblyReference.cache
+C:\Users\zZz\source\repos\MeMonstar\obj\Debug\MeMonstar.csproj.CoreCompileInputs.cache
+C:\Users\zZz\source\repos\MeMonstar\obj\Debug\MeMonstar.exe
+C:\Users\zZz\source\repos\MeMonstar\obj\Debug\MeMonstar.pdb
